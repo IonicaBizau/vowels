@@ -25,9 +25,9 @@
   },
   "homepage": "https://github.com/IonicaBizau/vowels#readme",
   "blah": {
-      "documentation": [
-        "The module exports an array of strings represeting vowels. :sparkles:"
-      ],
-      "show_jsdocs": false
+    "documentation": [
+      "The module exports an array of strings represeting vowels. :sparkles:"
+    ],
+    "show_jsdocs": false
   }
 }
