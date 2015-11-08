@@ -23,5 +23,11 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/vowels/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/vowels#readme"
+  "homepage": "https://github.com/IonicaBizau/vowels#readme",
+  "blah": {
+      "documentation": [
+        "The module exports an array of strings represeting vowels. :sparkles:"
+      ],
+      "show_jsdocs": false
+  }
 }
