@@ -5,7 +5,7 @@ A list with the vowels.
 ## Installation
 
 ```sh
-$ npm i -g vowels
+$ npm i vowels
 ```
 
 ## Example
