@@ -1,6 +1,6 @@
 {
   "name": "vowels",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "A list with the vowels.",
   "main": "lib/index.js",
   "directories": {
@@ -19,7 +19,7 @@
     "list"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
-  "license": "KINDLY",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/IonicaBizau/vowels/issues"
   },
