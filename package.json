@@ -1,6 +1,6 @@
 {
   "name": "vowels",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "A list with the vowels.",
   "main": "lib/index.js",
   "directories": {
@@ -29,5 +29,16 @@
       "The module exports an array of strings represeting vowels. :sparkles:"
     ],
     "show_jsdocs": false
-  }
+  },
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
