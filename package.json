@@ -1,6 +1,6 @@
 {
   "name": "vowels",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "A list with the vowels.",
   "main": "lib/index.js",
   "directories": {
@@ -38,6 +38,7 @@
     "src/",
     "resources/",
     "menu/",
+    "scripts/",
     "cli.js",
     "index.js"
   ]
