@@ -23,6 +23,8 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/vowels/issues"
   },
+  "contributors": ["Satvik Virmani <virmanisatvik01@gmail.com> (https://satvikvirmani.github.io)"],
+  
   "homepage": "https://github.com/IonicaBizau/vowels#readme",
   "blah": {
     "documentation": [
